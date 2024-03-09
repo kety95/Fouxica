@@ -280,3 +280,45 @@ main{
         transform: scale(1);
     }
 }
+
+@media (max-width: 1000px) {
+    body{
+        box-sizing: border-box;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    nav{
+       margin-left: 0em;
+       margin-right: 0em;
+    }
+    nav ul{
+        gap: 1.5em;
+    }
+    nav a{
+        font-size: 1.4rem;
+    }
+    main{
+        display: block;
+    }
+    .left-col{
+        width: 100%;
+    }
+    .cta-btns{
+       
+    }
+    .primary-cta{
+        font-size:  1.5rem;
+        padding: 0.5em 1em;
+    }
+    .secondary-cta{
+        font-size:  1.6rem;
+        display: block;
+        padding: 0.5em 0em;
+    }
+    .news{
+        padding: 2.5em;
+    }
+    .right-col{
+        margin-top: 5em;
+    }
+}
