@@ -2,13 +2,15 @@
 
 ![image](images/page.png)
 
+[Find the published project here](https://fouxica.vercel.app/)
+
 ## Tools used:
 
 * HTML
 
 * CSS
 
-* Flexible box
+* Flex-box
 
 ## Made by:
 
