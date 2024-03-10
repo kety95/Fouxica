@@ -4,7 +4,7 @@
 
 ## Tools used:
 
-*HTML
+* HTML
 
 * CSS
 
@@ -12,4 +12,4 @@
 
 ## Made by:
 
-###Ketlyn
+### Ketlyn
