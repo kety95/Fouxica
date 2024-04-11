@@ -1,5 +1,4 @@
-# Hello, welcome to my portfolio project.
-
+# Fouxica
 ![image](images/page.png)
 
 [Find the published project here](https://fouxica.vercel.app/)
